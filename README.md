@@ -12,7 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@niyaz-05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@niyaz-05" height="30" width="40" /></a>
+<a href="https://twitter.com/niyazkh55995124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niyazkh55995124" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niyaz khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyaz khan" height="30" width="40" /></a>
+<a href="https://instagram.com/niyaz_khan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niyaz_khan05" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/niyaz-05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niyaz-05" height="30" width="40" /></a>
 </p>
 
